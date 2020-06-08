@@ -11,6 +11,7 @@ More information on the website can be gained from here https://www.covid19india
 I have used [Jupyter-Notebook](https://realpython.com/jupyter-notebook-introduction/ "Know more about Jupyter Notebook") to write the code and In order to run the code successfully We would need below mentioned Python packages:
 * Pandas
 * Numpy
+* Matplotlib
 * Plotly
 * Requests
 * Datetime
