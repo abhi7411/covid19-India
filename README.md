@@ -1,5 +1,5 @@
 # Prediction on total infections for Covid19 - India
-In this a Python model has been developed which predicts the cases that upto a week with minimal error.
+In this a Python model has been developed which predicts the infected cases upto a week with minimal error.
 
 ## About the data
 The data is being fetched from an external source https://www.covid19india.org/ which has an API to use and process the data.
